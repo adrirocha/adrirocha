@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adrirocha
-- 👀 I’m interested in ... read books, cooking, sometimes i play some games.
-- 🌱 I’m currently learning ... python-backend
-- 💞️ I’m looking to collaborate on ... projects to improve my programming skills
-- 📫 How to reach me ... my gmail
+ Brazilian student
+ Always improving my knowledges
+ Beginner in coding, actually learning python
+ I’m looking to collaborate on projects to improve my programming skills
+ 
 
 <!---
 adrirocha/adrirocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
