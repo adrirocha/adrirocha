@@ -1,6 +1,5 @@
- Brazilian student
+Student
  Always improving my knowledges
- Beginner in coding, actually learning python
  I’m looking to collaborate on projects to improve my programming skills
  
 
